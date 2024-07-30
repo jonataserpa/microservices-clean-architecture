@@ -4,6 +4,10 @@ Curso Clean Code e Clean Architecture da Branas.io
 
 Este projeto utiliza Docker para gerenciar um servidor PostgreSQL e Node.js para a aplicação. 
 
+## Tema
+
+Ao longo de cada uma das 8 aulas nós vamos desenvolver passo a passo um projeto sobre um serviço de taxi online.
+
 ## Escopo
 
 Tudo começa com a CRIAÇÃO DA CONTA, que pode ser feita pelo PASSAGEIRO ou pelo MOTORISTA ou ambos. É necessário informar o NOME, EMAIL, CPF, SENHA e a PLACA DO CARRO, caso seja o motorista. Não será permitido que o mesmo email tenha mais de uma conta, não existe restrição em relação ao CPF.
